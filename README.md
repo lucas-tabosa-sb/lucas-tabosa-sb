@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Technical Trainer @ OSF Digital<br>🤝 looking to collaborate and improve on Javascript and ReactJS<br>🌱 got the fundamentals of HTML/CSS and Javascript - but now I'm focusing on learning Javascript details<br>⚡ 
+🔭 I started as a Frontend Dev and now I’m currently working as Technical Trainer @ OSF Digital<br>🤝 looking to collaborate and improve on Javascript and ReactJS<br>🌱 got the fundamentals of HTML/CSS and Javascript - but now I'm focusing on learning Javascript details<br>⚡ 
 
 
 ## 🌐 Socials:
